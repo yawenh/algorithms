@@ -10,3 +10,7 @@
 	- Merge Sort
 	- Heap Sort
 	
+#### Other Sorts:
+	- Counting Sort
+	- Bucket Sort
+	- Radix Sort
